@@ -15,7 +15,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Shubham Singh**, I’m an IT professional and passionate Data analyst.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shubham-singh-64827a228/])
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://shubham496.github.io/])
